@@ -1,0 +1,30 @@
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.exe
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.deps.json
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.runtimeconfig.json
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.dll
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.pdb
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.csproj.AssemblyReference.cache
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.AssemblyInfoInputs.cache
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.AssemblyInfo.cs
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.csproj.CoreCompileInputs.cache
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.dll
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\refint\LabWork30.dll
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.pdb
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.genruntimeconfig.cache
+E:\projects\labs\mdk 01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\ref\LabWork30.dll
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.exe
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.deps.json
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.runtimeconfig.json
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.dll
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\bin\Debug\net7.0\LabWork30.pdb
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.csproj.AssemblyReference.cache
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.AssemblyInfoInputs.cache
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.AssemblyInfo.cs
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.csproj.CoreCompileInputs.cache
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.dll
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\refint\LabWork30.dll
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.pdb
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\LabWork30.genruntimeconfig.cache
+E:\projects\labs\mdk01.04\LabWork30\LabWork30\LabWork30\obj\Debug\net7.0\ref\LabWork30.dll
